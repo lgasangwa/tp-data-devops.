@@ -1,4 +1,4 @@
-# tp-data-devops.# Pipeline de données Bureau&Co
+# Pipeline de données Bureau&Co
  
 Auteur : Laura Gasangwa
  
